@@ -18,16 +18,16 @@ body {
 .search .btn{
 position: absolute;
 top: 0px;
-left: 270px;
+left: 260px;
 font-size: 24px;
-background: rgb(150, 100, 200);
+background: rgb(175, 150, 200);
 border: 0;
 height: 50px;
 width: 50px;
 }
 
 .search .input {
-    background: rgb(150, 100, 200);
+    background: rgb(175, 150, 200);
     border: 0;
     height: 50px;
     width: 250px;
