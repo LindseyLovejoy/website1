@@ -43,3 +43,12 @@ cursor: pointer;
 .search .input:focus {
     outline: none;
 }
+
+
+.search.active .input{
+    width: 200px;
+}
+
+.search.active .btn {
+    transform
+}
