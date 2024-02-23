@@ -22,19 +22,24 @@ body {
 .search .btn{
 position: absolute;
 top: 0px;
-left: 255px;
+left: 0;
 font-size: 24px;
 background: rgb(175, 150, 200);
 border: 0;
 height: 50px;
 width: 50px;
+cursor: pointer;
 }
 
 .search .input {
     background: rgb(175, 150, 200);
     border: 0;
     height: 50px;
-    width: 250px;
+    width: 50px;
     padding: 15px;
     font-size: 18px;
+}
+
+.search .input:focus {
+    outline: none;
 }
