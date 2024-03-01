@@ -4,7 +4,7 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
-    justify-content; center;
+    justify-content: center;
     margin: 0;
 
  }
@@ -23,5 +23,5 @@ body {
     position: absolute;
     z-index: -1;
     background-image: url("images/bookshelf.avif");
-    background-
+    
  }
