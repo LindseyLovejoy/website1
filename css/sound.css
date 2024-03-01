@@ -3,52 +3,24 @@
 }
 
 body {
-    background: rgb(210 200 255);
+    background: rgb(185, 150, 240);
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
-
+    
 }
 
-.search {
+.btn {
+    background-color: rgb(150, 30, 200);
     height: 50px;
+    width: 100px;
     position: relative;
-}
-
-.search .btn{
-position: absolute;
-top: 0px;
-left: 0;
-font-size: 24px;
-background: rgb(175, 150, 200);
-border: 0;
-height: 50px;
-width: 50px;
-cursor: pointer;
-transition: transform 1s ease;
-}
-
-.search .input {
-    background: rgb(175, 150, 200);
-    border: 0;
-    height: 50px;
-    width: 50px;
-    padding: 15px;
+    margin: 5px;
+    color: white;
     font-size: 18px;
-    transition: width 1s ease;
-}
-
-.search .input:focus {
-    outline: none;
 }
 
 
-.search.active .input{
-    width: 200px;
-}
 
-.search.active .btn {
-    transform: translateX(198px);
-}
