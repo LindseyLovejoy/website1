@@ -26,5 +26,6 @@ body {
     cursor: pointer;
 }
 
-
-
+.btn:hover {
+    background-color: rgb(110, 0, 160);
+}
