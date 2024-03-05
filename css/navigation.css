@@ -50,3 +50,18 @@ body {
     font-size: 46px;
     margin: 0 0 20px;
 }
+
+.hero p {
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+
+
+.content h2 {
+    font-size: 150%;
+    margin: 20px 0;
+}
+
+.content p {
+    color: #555;
+}
