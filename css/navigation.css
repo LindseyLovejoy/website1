@@ -81,5 +81,8 @@ body {
 .nav .container {
     display: flex;
     justify-content: space-between;
-    align
+    align-items: center;
+    padding: 20px 0;
+    transition: all 0.3s ease-in-out;
+    
 }
