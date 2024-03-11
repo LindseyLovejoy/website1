@@ -3,4 +3,4 @@ open = document.getElementById('open')
 modal = document.getElementById('modal')
 
 n
-toggle.addEventListener
+toggle.addEventListener('click')
