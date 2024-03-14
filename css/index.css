@@ -32,11 +32,13 @@ color: white;
     .container p.one {
       position: absolute;
       top: 450px;
+      text-indent: 25px;
     }
 
     .container p.two {
       position: absolute;
       top: 575px;
+      text-indent: 25px;
     }
 
     .container a.one {
