@@ -24,3 +24,42 @@ color: white;
       position: releitve;
 
     }
+
+    .container h3 {
+      position: absolute;
+      top: 300px;
+    }
+    .container p.one {
+      position: absolute;
+      top: 450px;
+    }
+
+    .container p.two {
+      position: absolute;
+      top: 575px;
+    }
+
+    .container a.one {
+      position: absolute;
+      top: 340px;
+    }
+
+    .container a.two {
+      position: absolute;
+      top: 355px;
+    }
+
+    .container a.three {
+      position: absolute;
+      top: 370px;
+    }
+
+    .container a.four {
+      position: absolute;
+      top: 385px;
+    }
+
+    .container a.five {
+      position: absolute;
+      top: 400px;
+    }
