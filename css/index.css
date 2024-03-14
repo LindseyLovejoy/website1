@@ -46,26 +46,31 @@ max-width: 90%;
     .container a.one {
       position: absolute;
       top: 340px;
+      color: rgb(100, 250, 255);
     }
 
     .container a.two {
       position: absolute;
       top: 355px;
+      color: rgb(100, 250, 255);
     }
 
     .container a.three {
       position: absolute;
       top: 370px;
+      color: rgb(100, 250, 255);
     }
 
     .container a.four {
       position: absolute;
       top: 385px;
+      color: rgb(100, 250, 255);
     }
 
     .container a.five {
       position: absolute;
       top: 400px;
+      color: rgb(100, 250, 255);
     }
 
     .picDim {
@@ -74,6 +79,5 @@ max-width: 90%;
       height: 1000px;
       width: 110%;
       z-index: -2;
-      background-color: black;
-      opacity: 0.01;
+      background-color: rgba(0,0,0, 0.3);
     }
