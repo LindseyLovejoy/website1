@@ -73,6 +73,12 @@ max-width: 90%;
       color: rgb(100, 250, 255);
     }
 
+    .container a.six {
+      position: absolute;
+      top: 415px;
+      color: rgb(100, 250, 255);
+    }
+
     .picDim {
       position: fixed;
       top: 0;
